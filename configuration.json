@@ -1,3 +1,9 @@
 {
-    "avatar_server": "https://gitee.com/exthmui_chinasource/YellowPage_data/raw/master/data"
+    "avatar_server": "https://gitee.com/exthmui_chinasource/YellowPage_data/raw/master/data",
+    "post": {
+        "host": "localhost",
+        "port": 5000,
+        "path": "/yellowpage/v1.0/data",
+        "token": "{write_your_token_here"
+    }
 }
