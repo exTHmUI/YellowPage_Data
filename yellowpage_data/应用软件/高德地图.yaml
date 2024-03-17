@@ -1,5 +1,5 @@
 name: 高德地图
 phone:
-- {number: "400-810-0080", label: "" }
+- {number: "4008100080", label: "" }
 website:
 - {url: "https://www.amap.com/", label: "" }

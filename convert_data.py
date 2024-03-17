@@ -1,5 +1,6 @@
 import os
 import yaml
+import re
 from pathlib import Path
 
 # 获取当前脚本所在目录
@@ -9,13 +10,17 @@ def convert_phone_data(data):
     # 转换单个数据项
     transformed_data = {
         'name': data['basic']['organization'],
-        'phone': [f'{{number: "{number}", label: "" }}' for number in data['basic']['cellPhone']]
+        'phone': [f'{{number: "{remove_non_numeric(number)}", label: "" }}' for number in data['basic']['cellPhone']]
     }
 
     if 'url' in data['basic']:
         transformed_data['website'] = [f'{{url: "{data["basic"]["url"]}", label: "" }}']
     
     return transformed_data
+
+def remove_non_numeric(string):
+    # 使用正则表达式去除非数字字符
+    return re.sub(r'\D', '', str(string))
 
 def process_directory(directory_path):
     directory = Path(os.path.join(script_dir, directory_path))

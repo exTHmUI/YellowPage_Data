@@ -1,5 +1,5 @@
 name: 中国建设银行信用卡
 phone:
-- {number: "400-820-0588", label: "" }
+- {number: "4008200588", label: "" }
 website:
 - {url: "http://creditcard2.ccb.com", label: "" }

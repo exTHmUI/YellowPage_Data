@@ -11,7 +11,7 @@ const plugin_yellowPageData = require("./plugins/yellowpagedata");
 const plugin_post = require("./plugins/post");
 
 const generator = () => {
-    return src("data/*/*.yaml")
+    return src("yellowpage_data/*/*.yaml")
         .pipe(through2.obj(plugin_yellowPageData))
         .pipe(rename({extname: ".json"}))
         .pipe(dest("./out"));

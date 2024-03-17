@@ -43,12 +43,12 @@ const checkData = (t, path) => {
 }
 
 const app = async () => {
-    const paths = await globby("data/*/*.yaml");
+    const paths = await globby("yellowpage_data/*/*.yaml");
     for (const path of paths) {
         const type = path.split("/")[1];
         const name = path.split("/")[2].split(".")[0];
-        test(`Image of ${type} • ${name}`, checkImage, `data/${type}/${name}.png`);
-        test(`Data of ${type} • ${name}`, checkData, `data/${type}/${name}.yaml`);
+        test(`Image of ${type} • ${name}`, checkImage, `yellowpage_data/${type}/${name}.png`);
+        test(`Data of ${type} • ${name}`, checkData, `yellowpage_data/${type}/${name}.yaml`);
     }
 
 }

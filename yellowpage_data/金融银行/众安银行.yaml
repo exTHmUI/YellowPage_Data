@@ -1,5 +1,5 @@
 name: 众安银行
 phone:
-- {number: "+852 36653665", label: "" }
+- {number: "85236653665", label: "" }
 website:
 - {url: "https://bank.za.group/", label: "" }

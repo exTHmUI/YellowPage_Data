@@ -1,6 +1,6 @@
 name: 瑞幸咖啡
 phone:
-- {number: "0592-3386666", label: "" }
+- {number: "05923386666", label: "" }
 - {number: "4000100100", label: "" }
 website:
 - {url: "https://www.luckincoffee.com/", label: "" }
