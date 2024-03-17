@@ -1,0 +1,7 @@
+name: 招商银行信用卡
+phone:
+- {number: "4008205555", label: "" }
+- {number: "021-38784800", label: "" }
+- {number: "1065795555", label: "" }
+website:
+- {url: "https://cc.cmbchina.com", label: "" }

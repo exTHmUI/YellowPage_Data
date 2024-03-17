@@ -1,0 +1,5 @@
+name: 山姆会员商店
+phone:
+- {number: "400-6336-868", label: "" }
+website:
+- {url: "https://cms.samsclub.cn/", label: "" }

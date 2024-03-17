@@ -1,0 +1,7 @@
+name: 申通快递
+phone:
+- {number: "95543", label: "" }
+- {number: "95089", label: "" }
+- {number: "4008895543", label: "" }
+website:
+- {url: "https://www.sto.cn/", label: "" }

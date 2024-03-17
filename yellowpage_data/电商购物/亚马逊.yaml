@@ -1,0 +1,5 @@
+name: 亚马逊
+phone:
+- {number: "4008105666", label: "" }
+website:
+- {url: "https://www.amazon.cn/", label: "" }

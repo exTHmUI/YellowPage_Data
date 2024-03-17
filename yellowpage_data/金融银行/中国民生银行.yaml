@@ -1,0 +1,5 @@
+name: 中国民生银行
+phone:
+- {number: "95568", label: "" }
+website:
+- {url: "https://www.cmbc.com.cn/", label: "" }

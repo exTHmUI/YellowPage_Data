@@ -1,0 +1,5 @@
+name: 雪球
+phone:
+- {number: "010-61840600", label: "" }
+website:
+- {url: "https://xueqiu.com/", label: "" }

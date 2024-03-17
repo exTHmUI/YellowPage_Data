@@ -1,0 +1,5 @@
+name: 中国银行信用卡
+phone:
+- {number: "4006695566", label: "" }
+website:
+- {url: "https://www.bankofchina.com/bcservice/bc1/", label: "" }

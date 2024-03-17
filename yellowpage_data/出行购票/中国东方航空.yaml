@@ -1,0 +1,5 @@
+name: 中国东方航空
+phone:
+- {number: "95530", label: "" }
+website:
+- {url: "https://www.ceair.com/", label: "" }

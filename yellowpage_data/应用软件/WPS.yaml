@@ -1,0 +1,5 @@
+name: WPS
+phone:
+- {number: "400-677-5005", label: "" }
+website:
+- {url: "https://www.wps.cn/", label: "" }

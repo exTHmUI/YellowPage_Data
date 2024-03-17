@@ -1,0 +1,6 @@
+name: 上海农村商业银行
+phone:
+- {number: "962999", label: "" }
+- {number: "4006962999", label: "" }
+website:
+- {url: "http://www.shrcb.com/", label: "" }

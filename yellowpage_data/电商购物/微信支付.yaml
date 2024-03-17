@@ -1,0 +1,5 @@
+name: 微信支付
+phone:
+- {number: "95017", label: "" }
+website:
+- {url: "https://pay.weixin.qq.com/", label: "" }

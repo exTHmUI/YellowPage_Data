@@ -1,0 +1,5 @@
+name: 顺丰速运
+phone:
+- {number: "95338", label: "" }
+website:
+- {url: "https://www.sf-express.com/chn/sc", label: "" }

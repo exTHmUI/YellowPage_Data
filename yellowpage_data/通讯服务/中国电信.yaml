@@ -1,0 +1,11 @@
+name: 中国电信
+phone:
+- {number: "10000", label: "" }
+- {number: "10001", label: "" }
+- {number: "10006", label: "" }
+- {number: "100003", label: "" }
+- {number: "1000010", label: "" }
+- {number: "10001666", label: "" }
+- {number: "1065911468", label: "" }
+website:
+- {url: "https://www.189.cn/", label: "" }

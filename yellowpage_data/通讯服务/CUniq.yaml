@@ -1,0 +1,6 @@
+name: CUniq
+phone:
+- {number: "+852 21221188", label: "" }
+- {number: "+86 13068400177", label: "" }
+website:
+- {url: "https://www.cuniq.com/", label: "" }

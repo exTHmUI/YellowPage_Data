@@ -1,0 +1,5 @@
+name: 麦当劳
+phone:
+- {number: "4008517517", label: "" }
+website:
+- {url: "https://www.mcdonalds.com.cn/", label: "" }

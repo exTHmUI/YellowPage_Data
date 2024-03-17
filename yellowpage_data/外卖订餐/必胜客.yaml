@@ -1,0 +1,5 @@
+name: 必胜客
+phone:
+- {number: "4008123123", label: "" }
+website:
+- {url: "https://www.pizzahut.com.cn/", label: "" }

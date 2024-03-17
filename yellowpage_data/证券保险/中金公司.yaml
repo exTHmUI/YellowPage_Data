@@ -1,0 +1,8 @@
+name: 中金公司
+phone:
+- {number: "010-65051166", label: "" }
+- {number: "4006501656", label: "" }
+- {number: "64051516", label: "" }
+- {number: "010-85679888", label: "" }
+website:
+- {url: "https://www.cicc.com.cn/", label: "" }

@@ -1,0 +1,5 @@
+name: 洛阳银行
+phone:
+- {number: "96699", label: "" }
+website:
+- {url: "http://www.bankofluoyang.com.cn/", label: "" }

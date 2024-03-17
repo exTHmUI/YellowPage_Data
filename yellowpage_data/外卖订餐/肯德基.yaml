@@ -1,0 +1,5 @@
+name: 肯德基
+phone:
+- {number: "4008823823", label: "" }
+website:
+- {url: "https://www.kfc.com.cn/", label: "" }

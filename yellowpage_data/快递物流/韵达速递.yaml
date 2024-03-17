@@ -1,0 +1,6 @@
+name: 韵达速递
+phone:
+- {number: "95546", label: "" }
+- {number: "95121", label: "" }
+website:
+- {url: "http://www.yundaex.com/", label: "" }

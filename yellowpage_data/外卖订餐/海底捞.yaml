@@ -1,0 +1,5 @@
+name: 海底捞
+phone:
+- {number: "4009107107", label: "" }
+website:
+- {url: "https://www.haidilao.com/", label: "" }

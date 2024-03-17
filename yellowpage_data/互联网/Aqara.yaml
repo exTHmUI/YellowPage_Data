@@ -1,0 +1,5 @@
+name: Aqara
+phone:
+- {number: "4009907930", label: "" }
+website:
+- {url: "https://www.aqara.com/", label: "" }

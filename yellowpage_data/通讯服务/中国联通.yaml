@@ -1,0 +1,9 @@
+name: 中国联通
+phone:
+- {number: "10010", label: "" }
+- {number: "10011", label: "" }
+- {number: "10016", label: "" }
+- {number: "10018", label: "" }
+- {number: "101906", label: "" }
+website:
+- {url: "https://www.10010.com/", label: "" }

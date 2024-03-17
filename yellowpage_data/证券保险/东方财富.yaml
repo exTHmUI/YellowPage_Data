@@ -1,0 +1,5 @@
+name: 东方财富
+phone:
+- {number: "95357", label: "" }
+website:
+- {url: "https://www.eastmoney.com/", label: "" }

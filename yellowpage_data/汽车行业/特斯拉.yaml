@@ -1,0 +1,6 @@
+name: 特斯拉
+phone:
+- {number: "4009190707", label: "" }
+- {number: "4009100707", label: "" }
+website:
+- {url: "https://www.tesla.cn/", label: "" }

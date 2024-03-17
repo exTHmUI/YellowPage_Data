@@ -1,0 +1,5 @@
+name: 美团
+phone:
+- {number: "10107888", label: "" }
+website:
+- {url: "https://www.meituan.com/", label: "" }
