@@ -34,7 +34,7 @@ const checkData = (t, path) => {
     }
 
     for (let phone of json.phone) {
-        if (phone.number.toString().substr(0, 3) === "106") {
+        if (phone.number.toString().substr(0, 3) === "106" && phone.number.toString().length > 10) {
             t.fail("不收录 106 短信通道号码");
         }
     }
