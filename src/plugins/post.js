@@ -1,8 +1,10 @@
 module.exports = async (path, cb) => {
     let config = require("../../configuration.json");
 
+    let protocol = require("http");
+    if (config.post.protocol === "https") protocol = require("https");
+
     const fs = require("fs");
-    const http = require("http");
     
     const contents = fs.readFileSync(path);
 
@@ -18,7 +20,7 @@ module.exports = async (path, cb) => {
         }
     };
 
-    const req = http.request(options, function (res) {
+    const req = protocol.request(options, function (res) {
         res.setEncoding("utf8");
     });
 
