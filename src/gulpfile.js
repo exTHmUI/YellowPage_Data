@@ -66,8 +66,8 @@ const vCardAllInOne = () => {
 
 const jsonAllInOne = () => {
   return gulp.src("out/汇总/*.all.json")
-    .pipe(concatJson("全部.json"))
-    .pipe(gulp.dest("./out"));
+    .pipe(concatJson("YellowPage_data.json"))
+    .pipe(gulp.dest("./"));
 }
 
 const cleanVcard = () => {
