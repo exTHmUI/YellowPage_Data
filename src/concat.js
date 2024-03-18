@@ -1,13 +1,13 @@
-const through = require("through2");
-const path = require("path");
-const File = require("vinyl");
-const Concat = require("concat-with-sourcemaps");
+import through from "through2";
+import path from "path";
+import File from "vinyl";
+import Concat from "concat-with-sourcemaps";
 
-const fs = require("fs");
+import fs from "fs";
 
 // file can be a vinyl file object or a string
 // when a string it will construct a new one
-module.exports = function (file, opt) {
+const concat = function (file, opt) {
     if (!file) {
         throw new Error("yp-concat: Missing file option");
     }
@@ -103,3 +103,5 @@ const searchKey = (arr, key, keyValue) => {
     }
     return -1;
 }
+
+export default concat

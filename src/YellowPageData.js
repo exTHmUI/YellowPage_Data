@@ -29,4 +29,4 @@ const YellowPageData = (function () {
     }
 })
 
-module.exports = YellowPageData;
+export default YellowPageData;

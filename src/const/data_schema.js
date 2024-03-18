@@ -1,6 +1,6 @@
-const Joi = require("joi");
+import Joi from "joi";
 
-let paramSchema = Joi.object().keys({
+const paramSchema = Joi.object().keys({
     name: Joi.string().required(),
     avatar: Joi.string().uri({
         scheme: [
@@ -35,12 +35,4 @@ let paramSchema = Joi.object().keys({
     )
 })
 
-const option = {
-    allowUnknown: false
-}
-
-exports.validate = {
-    validateData: (obj) => {
-        return Joi.validate(obj, paramSchema, option)
-    }
-}
+export default paramSchema

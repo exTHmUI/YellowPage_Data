@@ -1,11 +1,11 @@
-const fs = require("fs");
-const yaml = require("js-yaml");
-const YPDataJS = require("../YellowPageData");
+import fs from "fs";
+import yaml from "js-yaml";
+import YPDataJS from "../YellowPageData.js";
 
-let config = require("../../configuration.json");
+import config from "../const/configuration.js"
 
 const plugin = (file, _, cb) => {
-    let avatarServer = config.avatar_server;
+    let avatarServer = config[0].avatar_server;
 
     const path = file.path;
     const data = fs.readFileSync(path, "utf8");
@@ -31,4 +31,4 @@ const plugin = (file, _, cb) => {
     cb(null, file)
 }
 
-module.exports = plugin
+export default plugin

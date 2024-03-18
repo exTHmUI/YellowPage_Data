@@ -1,15 +1,15 @@
-const through = require("through2");
-const path = require("path");
-const Vinyl = require("vinyl");
-const ConcatSourceMaps = require("concat-with-sourcemaps");
-const os = require("os");
+import through from "through2";
+import path from "path";
+import Vinyl from "vinyl";
+import ConcatSourceMaps from "concat-with-sourcemaps";
+import os from "os";
 
-const fs = require("fs");
-const yaml = require("js-yaml");
+import fs from "fs";
+import yaml from "js-yaml";
 
 // file can be a vinyl file object or a string
 // when a string it will construct a new one
-module.exports = function (base, opts) {
+const concatFolders = function (base, opts) {
     opts = opts || {};
 
     // to preserve existing |undefined| behaviour and to introduce |newLine: ""| for binaries
@@ -108,3 +108,5 @@ const searchKey = (arr, key, keyValue) => {
     }
     return -1;
 }
+
+export default concatFolders
