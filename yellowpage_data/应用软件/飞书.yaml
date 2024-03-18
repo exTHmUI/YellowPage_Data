@@ -2,4 +2,4 @@ name: 飞书
 phone:
 - {number: "4000682666", label: "" }
 website:
-- {url: "https://www.feishu.cn/", label: "" }
+- {url: "https://www.feishu.cn/", label: "官网" }

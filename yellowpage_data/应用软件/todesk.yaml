@@ -2,4 +2,4 @@ name: ToDesk
 phone:
 - {number: "089865337739", label: "" }
 website:
-- {url: "https://www.todesk.com", label: "" }
+- {url: "https://www.todesk.com", label: "官网" }

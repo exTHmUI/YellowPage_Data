@@ -2,4 +2,4 @@ name: 丰巢
 phone:
 - {number: "4000633333", label: "" }
 website:
-- {url: "https://www.fcbox.com/", label: "" }
+- {url: "https://www.fcbox.com/", label: "官网" }

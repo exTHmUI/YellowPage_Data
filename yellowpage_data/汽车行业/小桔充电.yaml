@@ -2,4 +2,4 @@ name: 小桔充电
 phone:
 - {number: "83044091", label: "" }
 website:
-- {url: "https://www.xiaojuchefu.com/charge", label: "" }
+- {url: "https://www.xiaojuchefu.com/charge", label: "官网" }

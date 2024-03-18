@@ -4,4 +4,4 @@ phone:
 - {number: "02095508", label: "" }
 - {number: "4008308003", label: "" }
 website:
-- {url: "https://www.cgbchina.com.cn/", label: "" }
+- {url: "https://www.cgbchina.com.cn/", label: "官网" }

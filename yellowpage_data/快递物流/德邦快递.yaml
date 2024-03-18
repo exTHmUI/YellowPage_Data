@@ -2,4 +2,4 @@ name: 德邦快递
 phone:
 - {number: "95353", label: "" }
 website:
-- {url: "https://www.deppon.com/", label: "" }
+- {url: "https://www.deppon.com/", label: "官网" }

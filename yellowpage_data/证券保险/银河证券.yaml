@@ -3,4 +3,4 @@ phone:
 - {number: "95551", label: "" }
 - {number: "4008888888", label: "" }
 website:
-- {url: "https://www.chinastock.com.cn/", label: "" }
+- {url: "https://www.chinastock.com.cn/", label: "官网" }

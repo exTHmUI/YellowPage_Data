@@ -2,4 +2,4 @@ name: 银联商务
 phone:
 - {number: "95534", label: "" }
 website:
-- {url: "https://www.chinaums.com/", label: "" }
+- {url: "https://www.chinaums.com/", label: "官网" }

@@ -3,4 +3,4 @@ phone:
 - {number: "962999", label: "" }
 - {number: "4006962999", label: "" }
 website:
-- {url: "http://www.shrcb.com/", label: "" }
+- {url: "http://www.shrcb.com/", label: "官网" }

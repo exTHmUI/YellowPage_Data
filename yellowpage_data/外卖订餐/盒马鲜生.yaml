@@ -2,4 +2,4 @@ name: 盒马鲜生
 phone:
 - {number: "9510217", label: "" }
 website:
-- {url: "https://www.freshippo.com/", label: "" }
+- {url: "https://www.freshippo.com/", label: "官网" }

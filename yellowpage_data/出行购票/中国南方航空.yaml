@@ -2,4 +2,4 @@ name: 中国南方航空
 phone:
 - {number: "95539", label: "" }
 website:
-- {url: "https://www.csair.com/cn/", label: "" }
+- {url: "https://www.csair.com/cn/", label: "官网" }

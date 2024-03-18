@@ -3,4 +3,4 @@ phone:
 - {number: "95526", label: "" }
 - {number: "4006601169", label: "" }
 website:
-- {url: "https://www.bankofbeijing.com.cn/", label: "" }
+- {url: "https://www.bankofbeijing.com.cn/", label: "官网" }

@@ -2,4 +2,4 @@ name: 扶贫基金会
 phone:
 - {number: "01082872688", label: "" }
 website:
-- {url: "https://www.cfpa.org.cn/", label: "" }
+- {url: "https://www.cfpa.org.cn/", label: "官网" }

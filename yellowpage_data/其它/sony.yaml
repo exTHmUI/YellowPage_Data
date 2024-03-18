@@ -2,4 +2,4 @@ name: Sony
 phone:
 - {number: "4008109000", label: "" }
 website:
-- {url: "https://www.sony.com.cn", label: "" }
+- {url: "https://www.sony.com.cn", label: "官网" }

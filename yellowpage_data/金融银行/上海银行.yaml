@@ -2,4 +2,4 @@ name: 上海银行
 phone:
 - {number: "95594", label: "" }
 website:
-- {url: "https://www.bosc.cn/zh/", label: "" }
+- {url: "https://www.bosc.cn/zh/", label: "官网" }

@@ -2,4 +2,4 @@ name: 拼多多
 phone:
 - {number: "4008822528", label: "" }
 website:
-- {url: "https://www.pinduoduo.com/", label: "" }
+- {url: "https://www.pinduoduo.com/", label: "官网" }

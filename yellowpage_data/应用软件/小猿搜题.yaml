@@ -2,4 +2,4 @@ name: 小猿搜题
 phone:
 - {number: "01059344888", label: "" }
 website:
-- {url: "https://www.yuansouti.com/", label: "" }
+- {url: "https://www.yuansouti.com/", label: "官网" }

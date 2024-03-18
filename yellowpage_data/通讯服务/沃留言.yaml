@@ -2,4 +2,4 @@ name: 沃留言
 phone:
 - {number: "10165", label: "" }
 website:
-- {url: "https://wly.mail.wo.cn/", label: "" }
+- {url: "https://wly.mail.wo.cn/", label: "官网" }

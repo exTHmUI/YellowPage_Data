@@ -2,4 +2,4 @@ name: 多邻国
 phone:
 - {number: "14125676602", label: "" }
 website:
-- {url: "https://www.duolingo.com/", label: "" }
+- {url: "https://www.duolingo.com/", label: "官网" }

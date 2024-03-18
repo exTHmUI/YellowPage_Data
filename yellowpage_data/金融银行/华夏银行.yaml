@@ -3,4 +3,4 @@ phone:
 - {number: "95577", label: "" }
 - {number: "4006695577", label: "" }
 website:
-- {url: "https://www.hxb.com.cn/", label: "" }
+- {url: "https://www.hxb.com.cn/", label: "官网" }

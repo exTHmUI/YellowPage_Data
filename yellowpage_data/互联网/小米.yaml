@@ -4,4 +4,4 @@ phone:
 - {number: "01060642355", label: "" }
 - {number: "4001005678", label: "" }
 website:
-- {url: "https://www.mi.com/", label: "" }
+- {url: "https://www.mi.com/", label: "官网" }

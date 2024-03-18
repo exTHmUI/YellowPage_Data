@@ -2,4 +2,4 @@ name: WPS
 phone:
 - {number: "4006775005", label: "" }
 website:
-- {url: "https://www.wps.cn/", label: "" }
+- {url: "https://www.wps.cn/", label: "官网" }

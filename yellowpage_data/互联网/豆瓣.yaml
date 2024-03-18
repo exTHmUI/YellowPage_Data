@@ -2,4 +2,4 @@ name: 豆瓣
 phone:
 - {number: "01084799058", label: "" }
 website:
-- {url: "https://www.douban.com/", label: "" }
+- {url: "https://www.douban.com/", label: "官网" }

@@ -2,4 +2,4 @@ name: 明道云
 phone:
 - {number: "01053153053", label: "" }
 website:
-- {url: "https://www.mingdao.com/", label: "" }
+- {url: "https://www.mingdao.com/", label: "官网" }

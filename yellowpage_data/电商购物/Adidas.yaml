@@ -2,4 +2,4 @@ name: Adidas
 phone:
 - {number: "4009995999", label: "" }
 website:
-- {url: "https://www.adidas.com.cn", label: "" }
+- {url: "https://www.adidas.com.cn", label: "官网" }

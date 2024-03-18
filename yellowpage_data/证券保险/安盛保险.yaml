@@ -2,4 +2,4 @@ name: 安盛保险
 phone:
 - {number: "95550", label: "" }
 website:
-- {url: "https://www.axa.cn/", label: "" }
+- {url: "https://www.axa.cn/", label: "官网" }

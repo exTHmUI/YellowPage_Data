@@ -3,4 +3,4 @@ phone:
 - {number: "4008885555", label: "" }
 - {number: "02168674800", label: "" }
 website:
-- {url: "https://cc.cmbchina.com", label: "" }
+- {url: "https://cc.cmbchina.com", label: "官网" }

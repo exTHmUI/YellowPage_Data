@@ -3,4 +3,4 @@ phone:
 - {number: "95580", label: "" }
 - {number: "400885580", label: "" }
 website:
-- {url: "https://www.psbc.com/cn/", label: "" }
+- {url: "https://www.psbc.com/cn/", label: "官网" }

@@ -3,4 +3,4 @@ phone:
 - {number: "952555", label: "" }
 - {number: "10100571", label: "" }
 website:
-- {url: "https://www.10jqka.com.cn/", label: "" }
+- {url: "https://www.10jqka.com.cn/", label: "官网" }

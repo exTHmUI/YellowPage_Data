@@ -2,4 +2,4 @@ name: 微众银行
 phone:
 - {number: "95384", label: "" }
 website:
-- {url: "https://www.webank.com/", label: "" }
+- {url: "https://www.webank.com/", label: "官网" }

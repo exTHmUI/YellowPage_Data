@@ -8,4 +8,4 @@ phone:
 - {number: "075522731198", label: "" }
 - {number: "076922862200", label: "" }
 website:
-- {url: "https://www.huawei.com/cn/", label: "" }
+- {url: "https://www.huawei.com/cn/", label: "官网" }

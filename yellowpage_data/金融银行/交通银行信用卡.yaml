@@ -2,4 +2,4 @@ name: 交通银行信用卡
 phone:
 - {number: "4008009888", label: "" }
 website:
-- {url: "https://creditcard.bankcomm.com", label: "" }
+- {url: "https://creditcard.bankcomm.com", label: "官网" }

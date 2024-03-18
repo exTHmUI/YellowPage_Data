@@ -2,4 +2,4 @@ name: 宜家家居
 phone:
 - {number: "4008002345", label: "" }
 website:
-- {url: "https://www.ikea.cn/cn/zh/", label: "" }
+- {url: "https://www.ikea.cn/cn/zh/", label: "官网" }

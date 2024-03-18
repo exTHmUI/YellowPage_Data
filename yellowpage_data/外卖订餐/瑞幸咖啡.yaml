@@ -3,4 +3,4 @@ phone:
 - {number: "05923386666", label: "" }
 - {number: "4000100100", label: "" }
 website:
-- {url: "https://www.luckincoffee.com/", label: "" }
+- {url: "https://www.luckincoffee.com/", label: "官网" }

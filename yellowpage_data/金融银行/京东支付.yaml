@@ -2,4 +2,4 @@ name: 京东支付
 phone:
 - {number: "4000888816", label: "" }
 website:
-- {url: "https://www.jdpay.com/", label: "" }
+- {url: "https://www.jdpay.com/", label: "官网" }

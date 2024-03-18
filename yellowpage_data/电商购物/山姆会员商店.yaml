@@ -2,4 +2,4 @@ name: 山姆会员商店
 phone:
 - {number: "4006336868", label: "" }
 website:
-- {url: "https://cms.samsclub.cn/", label: "" }
+- {url: "https://cms.samsclub.cn/", label: "官网" }

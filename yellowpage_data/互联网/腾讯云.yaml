@@ -2,4 +2,4 @@ name: 腾讯云
 phone:
 - {number: "40091001001", label: "" }
 website:
-- {url: "https://cloud.tencent.com/", label: "" }
+- {url: "https://cloud.tencent.com/", label: "官网" }

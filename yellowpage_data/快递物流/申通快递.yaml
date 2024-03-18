@@ -4,4 +4,4 @@ phone:
 - {number: "95089", label: "" }
 - {number: "4008895543", label: "" }
 website:
-- {url: "https://www.sto.cn/", label: "" }
+- {url: "https://www.sto.cn/", label: "官网" }

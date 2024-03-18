@@ -2,4 +2,4 @@ name: 中信证券
 phone:
 - {number: "95548", label: "" }
 website:
-- {url: "http://www.cs.ecitic.com/newsite/", label: "" }
+- {url: "http://www.cs.ecitic.com/newsite/", label: "官网" }

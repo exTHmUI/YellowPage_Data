@@ -2,4 +2,4 @@ name: 政务服务便民热线
 phone:
 - {number: "12345", label: "" }
 website:
-- {url: "https://www.gov.cn/", label: "" }
+- {url: "https://www.gov.cn/", label: "官网" }

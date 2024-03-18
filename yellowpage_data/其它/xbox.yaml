@@ -2,4 +2,4 @@ name: Xbox
 phone:
 - {number: "4008866140", label: "" }
 website:
-- {url: "https://www.xbox.com/zh-CN/", label: "" }
+- {url: "https://www.xbox.com/zh-CN/", label: "官网" }

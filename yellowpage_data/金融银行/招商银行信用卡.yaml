@@ -4,4 +4,4 @@ phone:
 - {number: "02138784800", label: "" }
 - {number: "1065795555", label: "" }
 website:
-- {url: "https://cc.cmbchina.com", label: "" }
+- {url: "https://cc.cmbchina.com", label: "官网" }

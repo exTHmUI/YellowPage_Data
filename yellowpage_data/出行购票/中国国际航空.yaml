@@ -2,4 +2,4 @@ name: 中国国际航空
 phone:
 - {number: "95583", label: "" }
 website:
-- {url: "https://www.airchina.com.cn/", label: "" }
+- {url: "https://www.airchina.com.cn/", label: "官网" }

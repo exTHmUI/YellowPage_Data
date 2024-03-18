@@ -2,4 +2,4 @@ name: 摩点
 phone:
 - {number: "4009004587", label: "" }
 website:
-- {url: "https://www.modian.com/", label: "" }
+- {url: "https://www.modian.com/", label: "官网" }

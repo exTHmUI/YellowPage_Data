@@ -2,4 +2,4 @@ name: 酷家乐
 phone:
 - {number: "4008357300", label: "" }
 website:
-- {url: "https://www.kujiale.com/", label: "" }
+- {url: "https://www.kujiale.com/", label: "官网" }

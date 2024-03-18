@@ -2,4 +2,4 @@ name: 优衣库
 phone:
 - {number: "4008880296", label: "" }
 website:
-- {url: "https://www.uniqlo.cn/", label: "" }
+- {url: "https://www.uniqlo.cn/", label: "官网" }

@@ -2,4 +2,4 @@ name: 小鹏汽车
 phone:
 - {number: "4008193388", label: "" }
 website:
-- {url: "https://www.xiaopeng.com", label: "" }
+- {url: "https://www.xiaopeng.com", label: "官网" }

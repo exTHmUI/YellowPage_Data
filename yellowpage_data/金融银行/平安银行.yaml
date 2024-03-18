@@ -2,4 +2,4 @@ name: 平安银行
 phone:
 - {number: "95511", label: "" }
 website:
-- {url: "https://bank.pingan.com/", label: "" }
+- {url: "https://bank.pingan.com/", label: "官网" }

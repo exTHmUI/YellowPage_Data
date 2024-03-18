@@ -2,4 +2,4 @@ name: 腾讯视频
 phone:
 - {number: "075583765566", label: "" }
 website:
-- {url: "https://v.qq.com/", label: "" }
+- {url: "https://v.qq.com/", label: "官网" }

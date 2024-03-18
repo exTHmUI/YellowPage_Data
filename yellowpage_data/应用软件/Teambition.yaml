@@ -2,4 +2,4 @@ name: Teambition
 phone:
 - {number: "4000605576", label: "" }
 website:
-- {url: "https://www.teambition.com/", label: "" }
+- {url: "https://www.teambition.com/", label: "官网" }

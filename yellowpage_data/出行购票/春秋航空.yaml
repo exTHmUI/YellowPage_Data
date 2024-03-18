@@ -2,4 +2,4 @@ name: 春秋航空
 phone:
 - {number: "95524", label: "" }
 website:
-- {url: "https://www.ch.com/", label: "" }
+- {url: "https://www.ch.com/", label: "官网" }
