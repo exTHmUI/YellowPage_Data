@@ -14,7 +14,7 @@ def convert_phone_data(data):
     }
 
     if 'url' in data['basic']:
-        transformed_data['website'] = [f'{{url: "{data["basic"]["url"]}", label: "" }}']
+        transformed_data['website'] = [f'{{url: "{data["basic"]["url"]}", label: "官网" }}']
     
     return transformed_data
 
