@@ -1,6 +1,15 @@
 exTHmUI 黄页数据
 =====
 部分数据来源于 https://github.com/metowolf/vCards/
+其他信息，请参阅[vCards README](README_vCard.md)
+
+## 环境依赖
+ 1. `Node.js LTS v16+`
+ 2. `Python 3.8+`
+
+## Notes
+  - `convert_data.py`用于从源vCards项目文件格式化`yaml`文件为json compatibility文件。
+  - 支持原vCards项目构建`.vcf`文件，您需要安装`Node.js LTS v16+`后在项目中执行`npm run gulp buildVcard`。
 
 ## 请求收录
 
