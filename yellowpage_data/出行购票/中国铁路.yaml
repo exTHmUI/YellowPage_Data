@@ -1,5 +1,5 @@
 name: 中国铁路
 phone:
-- {number: "12306", label: "" }
+- {number: "12306", label: "服务及订票热线" }
 website:
 - {url: "https://www.12306.cn/", label: "官网" }

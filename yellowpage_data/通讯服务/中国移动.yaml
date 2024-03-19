@@ -1,6 +1,6 @@
 name: 中国移动
 phone:
-- {number: "10086", label: "" }
-- {number: "1008611", label: "" }
+- {number: "10086", label: "官方客服热线" }
+- {number: "1008611", label: "快捷查询中心" }
 website:
 - {url: "https://www.10086.cn/", label: "官网" }

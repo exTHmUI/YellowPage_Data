@@ -1,5 +1,5 @@
 name: 上海交通卡
 phone:
-- {number: "12319", label: "" }
+- {number: "12319", label: "服务热线" }
 website:
 - {url: "https://www.sptcc.com/", label: "官网" }

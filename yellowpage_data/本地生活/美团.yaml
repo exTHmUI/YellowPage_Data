@@ -1,5 +1,5 @@
 name: 美团
 phone:
-- {number: "10107888", label: "" }
+- {number: "10107888", label: "消费者服务热线" }
 website:
 - {url: "https://www.meituan.com/", label: "官网" }

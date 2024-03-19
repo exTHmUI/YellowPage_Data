@@ -1,6 +1,6 @@
 name: 中国电信
 phone:
-- {number: "10000", label: "" }
+- {number: "10000", label: "官方热线" }
 - {number: "10001", label: "" }
 - {number: "10006", label: "" }
 - {number: "100003", label: "" }

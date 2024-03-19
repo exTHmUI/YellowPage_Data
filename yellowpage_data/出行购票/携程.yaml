@@ -1,5 +1,5 @@
 name: 携程
 phone:
-- {number: "95010", label: "" }
+- {number: "95010", label: "服务热线" }
 website:
 - {url: "https://www.ctrip.com/", label: "官网" }

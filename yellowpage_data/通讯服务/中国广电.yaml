@@ -1,5 +1,5 @@
 name: 中国广电
 phone:
-- {number: "10099", label: "" }
+- {number: "10099", label: "官方客服热线" }
 website:
 - {url: "https://www.10099.com.cn", label: "官网" }

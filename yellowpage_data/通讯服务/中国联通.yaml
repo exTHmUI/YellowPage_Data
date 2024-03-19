@@ -1,8 +1,8 @@
 name: 中国联通
 phone:
-- {number: "10010", label: "" }
+- {number: "10010", label: "官方号码" }
 - {number: "10011", label: "" }
-- {number: "10016", label: "" }
+- {number: "10016", label: "营销热线" }
 - {number: "10018", label: "" }
 - {number: "101906", label: "" }
 website:
